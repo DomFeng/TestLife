@@ -11,7 +11,7 @@
 ### 2021.07
 * 编写发现问题、复测问题、修复问题issue模板、PR模板
 * 编写多用户、多节点广泛测试脚本
-* 编写测试用例，新增46条：《[**findora_wallet_测试用例**](https://docs.google.com/spreadsheets/d/1RymaY9zRvt37ZRlWx1SF8dDiLXYrYB8_HgNPTed8O_s/edit?usp=sharing)》
+* 编写测试用例，新增46条：[**《findora_wallet_测试用例》**](https://docs.google.com/spreadsheets/d/1RymaY9zRvt37ZRlWx1SF8dDiLXYrYB8_HgNPTed8O_s/edit?usp=sharing)
 * 开发findora压力测试工具
 * 提出issue：platform、wallet分支共21个
 * 以上详情见：[**https://github.com/DomFeng/TestLife/blob/master/2021/07.md**](https://github.com/DomFeng/TestLife/blob/master/2021/07.md)
